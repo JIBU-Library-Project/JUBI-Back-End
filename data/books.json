@@ -5,7 +5,7 @@
     "author": "Andrew Hunt",
     "genre": "Programming",
     "description": "A guide to pragmatic software development.",
-    "publicationYear": 1999,
+    "year": 1999,
     "imageUrl": "https://example.com/cover.jpg",
     "isAvailable": true
   },
