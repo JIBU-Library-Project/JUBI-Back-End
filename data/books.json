@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programming",
+    "description": "A guide to pragmatic software development.",
+    "publicationYear": 1999,
+    "imageUrl": "https://example.com/cover.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "7",
+    "title": "The Programatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programming",
+    "description": "A guide to pragmatic software development.",
+    "year": 1999,
+    "imageUrl": "https://example.com/cover.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "42e10df6-6066-4fd6-9933-4b519963e053",
+    "title": "The African Giant",
+    "author": "Umar Barbs",
+    "genre": "Literature",
+    "description": "A story of good African novel.",
+    "year": 2022,
+    "imageUrl": "https://example.com/cover.jpg",
+    "isAvailable": false
+  },
+  {
+    "id": "c3d0ec7b-24fd-4a4c-9877-0c438eda6210",
+    "title": "The African Giant",
+    "author": "Umar Barbs",
+    "genre": "Literature",
+    "description": "A story of good African Leader.",
+    "year": 2022,
+    "imageUrl": "https://example.com/cover.jpg",
+    "isAvailable": false
+  }
+]
