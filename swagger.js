@@ -6,7 +6,8 @@ const doc = {
     title: "Library App API",
     description: "detailed description of the library app",
   },
-  host: "localhost:7000",
+  host: "jubi-back-end.onrender.com",
+  schemes: ["https"],
 };
 
 const outputFile = "./swagger-output.json";

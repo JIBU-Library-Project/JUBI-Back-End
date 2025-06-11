@@ -9,5 +9,5 @@ app.use("/", booksRouter);
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 [];
 app.listen(7000, () => {
-  console.log("App running on port 6000");
+  console.log("App running on port 7000");
 });

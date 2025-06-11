@@ -5,10 +5,10 @@
     "description": "detailed description of the library app",
     "version": "1.0.0"
   },
-  "host": "localhost:7000",
+  "host": "jubi-back-end.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/books": {
