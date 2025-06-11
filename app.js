@@ -1,13 +1,13 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
 const booksRouter = require("./routes/booksRoute");
 app.use(express.json());
 const swaggerUi = require("swagger-ui-express");
 const swaggerDocument = require("./swagger-output.json");
-const cors = require("cors");
+app.use(cors({ origin: "*" }));
 
 app.use("/", booksRouter);
-app.use(cors());
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 [];
 app.listen(7000, () => {
