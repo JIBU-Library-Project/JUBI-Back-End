@@ -68,5 +68,15 @@
     "year": 2021,
     "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/228/large_d05c8acb5c02e04541792b62cbcf5b8a.jpg",
     "isAvailable": false
+  },
+  {
+    "id": "96527461-bb8f-43b7-a1c9-cebf051b33ce",
+    "title": "The Thorn Queen",
+    "author": "Isobel Hart",
+    "genre": "Fantasy",
+    "description": "The Thorn Queen is a dark and enchanting fantasy that follows Briar, a cursed heir to a fallen kingdom where roses bloom in blood and thorns whisper ancient truths. When a neighboring realm seeks to destroy the remnants of her lineage, Briar must awaken the forbidden magic buried within the thorn-covered ruins of her childhood home. Guided by a reluctant knight and a fae spirit bound to the old forest, she must decide whether to reclaim her throne or let vengeance consume her. Isobel Hart crafts a moody, spellbinding tale of power, legacy, and the resilience of a queen born from ruin.",
+    "year": 2023,
+    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkentonlibrary.bibliocommons.com%2Fitem%2Fshow%2F17220178981&psig=AOvVaw3m8FtdCsUngwwDpVBX9Ngd&ust=1749818857926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiOibn1640DFQAAAAAdAAAAABAE",
+    "isAvailable": true
   }
 ]
