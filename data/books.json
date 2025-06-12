@@ -38,5 +38,35 @@
     "year": 2020,
     "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/286/large_97957b3f23612b9f5537bc9aa52d1844.jpg",
     "isAvailable": true
+  },
+  {
+    "id": "28af69c0-535b-4ad1-85c7-a82fe3f9a9ea",
+    "title": "The Big Bird",
+    "author": "John Doe",
+    "genre": "Fiction",
+    "description": "The Big Bird is a captivating fiction novel that weaves mystery, adventure, and suspense into a gripping narrative. Set in a quiet coastal town, the story follows a young ornithologist who becomes obsessed with tracking down a legendary, elusive bird said to possess otherworldly powers.",
+    "year": 2021,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/254/large_f9aca907606b40f478a4ec40ade5f476.jpg",
+    "isAvailable": false
+  },
+  {
+    "id": "64d0c452-fe3e-4ba1-b620-d3302a8cd594",
+    "title": "The Glass Kingdom",
+    "author": "Marina Vale",
+    "genre": "Fantasy",
+    "description": "The Glass Kingdom is a dazzling tale of magic, betrayal, and buried truths. Deep beneath a snow-covered mountain lies a kingdom encased in crystal, where time stands still and secrets echo through shimmering halls. When a rebellious scholar named Kael discovers an ancient map pointing to the lost kingdom, he embarks on a perilous expedition with a group of outcasts. As the group descends into the frozen depths, they must confront mythical beasts, shifting loyalties, and the haunted past of the kingdom itself. Marina Vale’s vivid storytelling brings to life a world where knowledge is power and glass remembers everything.",
+    "year": 2018,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/253/large_44f3ef0b4087b7f3f927426d38373e25.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "f87434af-6d88-4d6e-b94a-f5a1e8e7c9a6",
+    "title": "Crown of Mist",
+    "author": "Rhea Caldwell",
+    "genre": "Fantasy",
+    "description": "Crown of Mist is a haunting fantasy adventure set in a realm cloaked in perpetual fog and ruled by whispered legends. Arlenna, a banished princess with the rare ability to command mist, returns to reclaim her throne after her family is betrayed. With her allies scattered and the mist hiding enemies and allies alike, Arlenna must unravel her kingdom’s darkest secrets and master the ancient magic that once protected it. Rhea Caldwell paints a moody, immersive world where truth is obscured, power is fragile, and destiny emerges from the shadows.",
+    "year": 2021,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/228/large_d05c8acb5c02e04541792b62cbcf5b8a.jpg",
+    "isAvailable": false
   }
 ]
