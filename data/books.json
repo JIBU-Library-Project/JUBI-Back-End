@@ -10,33 +10,33 @@
     "isAvailable": true
   },
   {
-    "id": "7",
-    "title": "The Programatic Programmer",
-    "author": "Andrew Hunt",
-    "genre": "Programming",
-    "description": "A guide to pragmatic software development.",
-    "year": 1999,
-    "imageUrl": "https://example.com/cover.jpg",
+    "id": "dc392bc2-dd72-4e69-a086-942f2755a89d",
+    "title": "Whispers of the Forest",
+    "author": "Jane Smith",
+    "genre": "Fantasy",
+    "description": "Whispers of the Forest is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
+    "year": 2019,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/255/large_6cacd912f898ca2f94d083737783e23e.jpg",
+    "isAvailable": false
+  },
+  {
+    "id": "bcf91049-d2b1-400c-b651-bfc746ca97e7",
+    "title": "Ember and Ash",
+    "author": "Kieran Wolfe",
+    "genre": "Fantasy",
+    "description": "Ember and Ash is a fast-paced, elemental fantasy set in a fractured world where fire and shadow battle for control. When Ashen, a runaway from a forgotten fire tribe, discovers a dormant flame spirit within her, she is thrust into a centuries-old war that threatens to engulf the realm. With the fate of her people in her hands and betrayal lurking in every shadow, Ashen must master her volatile powers and uncover the truth about her ancestry. Kieran Wolfe delivers a fierce, emotionally charged narrative filled with richly built lore, complex characters, and breathtaking elemental battles.",
+    "year": 2022,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/232/large_86dc6b6a9cc173c84f96d27e08d350a5.jpg",
+    "isAvailable": false
+  },
+  {
+    "id": "f1bb6dcc-96b8-4c4c-ac4a-acbc316de4fc",
+    "title": "The Moonlight Gate",
+    "author": "Elena Gray",
+    "genre": "Fantasy",
+    "description": "The Moonlight Gate is a lush and evocative fantasy novel that follows the story of Lira, a young woman who discovers a hidden doorway to a parallel realm during a rare lunar eclipse. In this strange new world where moonlight fuels magic and ancient creatures rule the forests, Lira must navigate political intrigue, forbidden magic, and her own emerging powers. As darkness threatens both worlds, she must choose between returning home or embracing her destiny as the gatekeeper between worlds. Elena Gray weaves an unforgettable tale of love, sacrifice, and self-discovery under the glow of the moon.",
+    "year": 2020,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/286/large_97957b3f23612b9f5537bc9aa52d1844.jpg",
     "isAvailable": true
-  },
-  {
-    "id": "42e10df6-6066-4fd6-9933-4b519963e053",
-    "title": "The African Giant",
-    "author": "Umar Barbs",
-    "genre": "Literature",
-    "description": "A story of good African novel.",
-    "year": 2022,
-    "imageUrl": "https://example.com/cover.jpg",
-    "isAvailable": false
-  },
-  {
-    "id": "c3d0ec7b-24fd-4a4c-9877-0c438eda6210",
-    "title": "The African Giant",
-    "author": "Umar Barbs",
-    "genre": "Literature",
-    "description": "A story of good African Leader.",
-    "year": 2022,
-    "imageUrl": "https://example.com/cover.jpg",
-    "isAvailable": false
   }
 ]
