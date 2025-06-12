@@ -1,12 +1,12 @@
 [
   {
     "id": "6",
-    "title": "The Pragmatic Programmer",
-    "author": "Andrew Hunt",
+    "title": "The Art of taking Second Chances",
+    "author": "Varsha Chitnit",
     "genre": "Programming",
-    "description": "A guide to pragmatic software development.",
-    "year": 1999,
-    "imageUrl": "https://example.com/cover.jpg",
+    "description": "The Art of taking Second chances is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
+    "year": 1993,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/198/large_dcb8ce6be9175745e6be10b330f0e3b1.jpg",
     "isAvailable": true
   },
   {
