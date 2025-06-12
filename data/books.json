@@ -1,13 +1,13 @@
 [
   {
     "id": "6",
-    "title": "The Art of taking Second Chances",
-    "author": "Varsha Chitnit",
-    "genre": "Programming",
-    "description": "The Art of taking Second chances is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
-    "year": 1993,
-    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/198/large_dcb8ce6be9175745e6be10b330f0e3b1.jpg",
-    "isAvailable": true
+    "title": "Crown of Mist",
+    "author": "Rhea Caldwell",
+    "genre": "Fantasy",
+    "description": "Crown of Mist is a haunting fantasy adventure set in a realm cloaked in perpetual fog and ruled by whispered legends. Arlenna, a banished princess with the rare ability to command mist, returns to reclaim her throne after her family is betrayed. With her allies scattered and the mist hiding enemies and allies alike, Arlenna must unravel her kingdom’s darkest secrets and master the ancient magic that once protected it. Rhea Caldwell paints a moody, immersive world where truth is obscured, power is fragile, and destiny emerges from the shadows.",
+    "year": 2027,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/228/large_d05c8acb5c02e04541792b62cbcf5b8a.jpg",
+    "isAvailable": false
   },
   {
     "id": "dc392bc2-dd72-4e69-a086-942f2755a89d",
@@ -74,5 +74,15 @@
     "year": 1993,
     "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/239/large_52f64c105935c75881ac2b956098df12.jpg",
     "isAvailable": true
+  },
+  {
+    "id": "f6981a04-8a41-49e1-9878-532e86fe7c04",
+    "title": "Crown of Mist",
+    "author": "Rhea Caldwell",
+    "genre": "Fantasy",
+    "description": "Crown of Mist is a haunting fantasy adventure set in a realm cloaked in perpetual fog and ruled by whispered legends. Arlenna, a banished princess with the rare ability to command mist, returns to reclaim her throne after her family is betrayed. With her allies scattered and the mist hiding enemies and allies alike, Arlenna must unravel her kingdom’s darkest secrets and master the ancient magic that once protected it. Rhea Caldwell paints a moody, immersive world where truth is obscured, power is fragile, and destiny emerges from the shadows.",
+    "year": 2027,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/228/large_d05c8acb5c02e04541792b62cbcf5b8a.jpg",
+    "isAvailable": false
   }
 ]
