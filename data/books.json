@@ -20,26 +20,6 @@
     "isAvailable": false
   },
   {
-    "id": "bcf91049-d2b1-400c-b651-bfc746ca97e7",
-    "title": "Ember and Ash",
-    "author": "Kieran Wolfe",
-    "genre": "Fantasy",
-    "description": "Ember and Ash is a fast-paced, elemental fantasy set in a fractured world where fire and shadow battle for control. When Ashen, a runaway from a forgotten fire tribe, discovers a dormant flame spirit within her, she is thrust into a centuries-old war that threatens to engulf the realm. With the fate of her people in her hands and betrayal lurking in every shadow, Ashen must master her volatile powers and uncover the truth about her ancestry. Kieran Wolfe delivers a fierce, emotionally charged narrative filled with richly built lore, complex characters, and breathtaking elemental battles.",
-    "year": 2022,
-    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/232/large_86dc6b6a9cc173c84f96d27e08d350a5.jpg",
-    "isAvailable": false
-  },
-  {
-    "id": "f1bb6dcc-96b8-4c4c-ac4a-acbc316de4fc",
-    "title": "The Moonlight Gate",
-    "author": "Elena Gray",
-    "genre": "Fantasy",
-    "description": "The Moonlight Gate is a lush and evocative fantasy novel that follows the story of Lira, a young woman who discovers a hidden doorway to a parallel realm during a rare lunar eclipse. In this strange new world where moonlight fuels magic and ancient creatures rule the forests, Lira must navigate political intrigue, forbidden magic, and her own emerging powers. As darkness threatens both worlds, she must choose between returning home or embracing her destiny as the gatekeeper between worlds. Elena Gray weaves an unforgettable tale of love, sacrifice, and self-discovery under the glow of the moon.",
-    "year": 2020,
-    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/286/large_97957b3f23612b9f5537bc9aa52d1844.jpg",
-    "isAvailable": true
-  },
-  {
     "id": "28af69c0-535b-4ad1-85c7-a82fe3f9a9ea",
     "title": "The Big Bird",
     "author": "John Doe",
@@ -50,33 +30,49 @@
     "isAvailable": false
   },
   {
-    "id": "64d0c452-fe3e-4ba1-b620-d3302a8cd594",
-    "title": "The Glass Kingdom",
-    "author": "Marina Vale",
+    "id": "e55ca4ec-367d-44db-b0a1-e0a454d52687",
+    "title": "The Next Big Thing",
+    "author": "Andrew McLinden",
     "genre": "Fantasy",
-    "description": "The Glass Kingdom is a dazzling tale of magic, betrayal, and buried truths. Deep beneath a snow-covered mountain lies a kingdom encased in crystal, where time stands still and secrets echo through shimmering halls. When a rebellious scholar named Kael discovers an ancient map pointing to the lost kingdom, he embarks on a perilous expedition with a group of outcasts. As the group descends into the frozen depths, they must confront mythical beasts, shifting loyalties, and the haunted past of the kingdom itself. Marina Vale’s vivid storytelling brings to life a world where knowledge is power and glass remembers everything.",
-    "year": 2018,
-    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/253/large_44f3ef0b4087b7f3f927426d38373e25.jpg",
+    "description": "The Next Big Thing is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
+    "year": 2009,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/244/large_71a53ec3dd63ffa1a3f906332dfc9a36.jpg",
     "isAvailable": true
   },
   {
-    "id": "f87434af-6d88-4d6e-b94a-f5a1e8e7c9a6",
-    "title": "Crown of Mist",
-    "author": "Rhea Caldwell",
-    "genre": "Fantasy",
-    "description": "Crown of Mist is a haunting fantasy adventure set in a realm cloaked in perpetual fog and ruled by whispered legends. Arlenna, a banished princess with the rare ability to command mist, returns to reclaim her throne after her family is betrayed. With her allies scattered and the mist hiding enemies and allies alike, Arlenna must unravel her kingdom’s darkest secrets and master the ancient magic that once protected it. Rhea Caldwell paints a moody, immersive world where truth is obscured, power is fragile, and destiny emerges from the shadows.",
-    "year": 2021,
-    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/228/large_d05c8acb5c02e04541792b62cbcf5b8a.jpg",
+    "id": "00680f1e-5d3d-49fa-b730-4815a54c877f",
+    "title": "Shadow Legacy",
+    "author": "Collen Mitchel",
+    "description": "Shadow Legacy is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
+    "year": 2014,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/243/large_aac235d8c6d0232f15f704f949acc20e.jpeg",
     "isAvailable": false
   },
   {
-    "id": "96527461-bb8f-43b7-a1c9-cebf051b33ce",
-    "title": "The Thorn Queen",
-    "author": "Isobel Hart",
-    "genre": "Fantasy",
-    "description": "The Thorn Queen is a dark and enchanting fantasy that follows Briar, a cursed heir to a fallen kingdom where roses bloom in blood and thorns whisper ancient truths. When a neighboring realm seeks to destroy the remnants of her lineage, Briar must awaken the forbidden magic buried within the thorn-covered ruins of her childhood home. Guided by a reluctant knight and a fae spirit bound to the old forest, she must decide whether to reclaim her throne or let vengeance consume her. Isobel Hart crafts a moody, spellbinding tale of power, legacy, and the resilience of a queen born from ruin.",
-    "year": 2023,
-    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkentonlibrary.bibliocommons.com%2Fitem%2Fshow%2F17220178981&psig=AOvVaw3m8FtdCsUngwwDpVBX9Ngd&ust=1749818857926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiOibn1640DFQAAAAAdAAAAABAE",
+    "id": "2f23c3b2-88f6-49d6-98a7-622a6233ae17",
+    "title": "Fire and Flourishing",
+    "author": "Kassi Wilson",
+    "description": "Fire and FLourishing is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
+    "year": 1999,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/242/large_94f20234909a9edf1b11d7757aab2a44.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "386f0feb-36f8-47dd-ad2f-953906ffc347",
+    "title": "The Rules We Live By",
+    "author": "Destyn Land",
+    "description": "The Rules We Live By is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
+    "year": 2005,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/240/large_005db42bd95a4acf4d81fa0d278781aa.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "342aa096-2c6c-4945-b659-9b0fd7189335",
+    "title": "The Premed Paradox",
+    "author": "Amit Pandey",
+    "description": "The Premed Paradox is a mesmerizing fantasy novel that transports readers into the heart of an ancient woodland brimming with magic, mystery, and timeless lore. When Elara, a reclusive young apothecary, follows the faint call of a forgotten melody into the trees, she discovers a realm where spirits stir, legends breathe, and her own destiny has already taken root. As the forest reveals its secrets and a long-dormant power begins to rise, Elara must face ancient trials, forge unlikely alliances, and embrace a legacy written in the leaves. Jane Smith’s lyrical prose and richly imagined world will enchant fans of atmospheric fantasy and magical realism alike.",
+    "year": 1993,
+    "imageUrl": "https://blog-cdn.reedsy.com/directories/gallery/239/large_52f64c105935c75881ac2b956098df12.jpg",
     "isAvailable": true
   }
 ]
